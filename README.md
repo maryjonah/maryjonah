@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
 <!--
 **maryjonah/maryjonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
