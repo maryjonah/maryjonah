@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryjonah)](https://github.com/maryjonah/github-readme-stats)
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryjonah)](https://github.com/maryjonah/github-readme-stats)
 
 <!--
