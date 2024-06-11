@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Visits Badge](https://github.com/maryjonah/maryjonah/)]<!--(https://github.com/maryjonah/maryjonah/)-->
+[![Visits Badge](https://github.com/maryjonah/maryjonah/)](https://github.com/maryjonah/maryjonah/)
 
 <!--
 **maryjonah/maryjonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
